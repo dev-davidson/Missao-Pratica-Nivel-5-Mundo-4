@@ -3,12 +3,6 @@
 import asyncio
 import random
 
-import asyncio
-import random
-
-import asyncio
-import random
-
 import uuid
 from azure.iot.device.aio import IoTHubDeviceClient                                                                                     
 from azure.iot.device import Message                                                                                                    
